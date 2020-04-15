@@ -1,3 +1,1 @@
-# Machine-Learning-Applications
-
-1. Face detection and recognition
+Take a pull and open face_detection_and_recognition.ipynb in Jupyter notebook
